@@ -6,7 +6,7 @@ I'm Ning - I am all about using data and visuals to tell convincing stories. �
 
 I am all about using data and visuals to tell convincing stories. Right now, I'm diving deep into a full-stack data analysis Bootcamp, and I'm stoked to graduate in August 2023!
 
-*   🌍  I'm based in Michigan
+*   🌍  I'm based in North Carolina
 *   ✉️  You can contact me at [ning.gao.da@gmail.com](mailto:ning.gao.da@gmail.com)
 *   🧠  I'm learning Big Data & Machine Learning
 *   🤝  I'm open to collaborating on projects involves : python coding | data visualization | storytelling with data
